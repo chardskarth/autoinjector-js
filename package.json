@@ -1,0 +1,19 @@
+{
+  "name": "axl-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test-injector"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "chai": "^4.1.1",
+    "hat": "0.0.3"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
